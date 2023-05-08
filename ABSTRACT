@@ -1,0 +1,19 @@
+Almost 500,000 people die each year from malaria, a deadly infectious disease caused by an infectious
+agent. It is most often a delayed or incorrect diagnosis that causes these deaths. For diagnosing malaria, the
+manual microscope is considered the most effective tool. However, it is time-consuming and prone to
+human error. Due to the severity of the issue, the evaluation process must be automated. To eliminate human
+involvement from the diagnosis process, this essay advocates for diagnosis automation.
+
+A different approach to analyzing parasitemia in microscopic blood slides, which uses deep learning
+techniques, such as convolutional neural networks (CNNs), is to use deep learning technologies, such as
+image processing, to improve diagnostic accuracy. Plasmodium parasites and erythrocytes are known to
+vary in intensity characteristics, which are used in the method.
+
+Convolutional neural networks, or CNNs, and other deep-learning technologies, such as image
+processing, are being used to assess parasitemia in microscopic blood slides in order to improve diagnostic
+accuracy. The method is based on the varying intensity features of Plasmodium parasites and erythrocytes.
+
+Images of infected and noninfected erythrocytes are collected and input into the CNN models ResNet50,
+ResNet34, VGG-16, and VGG-19, which were all trained on the same dataset. Transfer learning and
+fine-tuning procedures are used, and the results are compared. Given the parameters and dataset that were
+analyzed, the VGG-19 model had the best overall performance.
