@@ -1,0 +1,38 @@
+Malaria is a disease caused by Plasmodium protozoan parasites spread through the bites of female
+Anopheles mosquitoes. 216 million cases were recorded in 91 countries, primarily in the African Region,
+Southeast Asia Region, and Eastern Mediterranean Region. Symptoms include fever, tiredness, and
+headaches, and early detection and treatment are essential. Diagnosing malaria is done by inspecting blood
+samples for parasites, typically through light microscopy or rapid diagnostic tests. However, these methods
+have limitations, including dependence on the pathologist's skill, the possibility of false-positive and falsenegative diagnoses, and being time-consuming. Malaria is preventable, but there is no effective
+immunization available at this time
+
+Deep learning algorithms, particularly convolutional neural networks (CNNs), are commonly used in
+computer vision and have become highly popular in evaluating and diagnosing biomedical and healthcare
+problems. CNNs serve as automatic feature extractors, extracting hidden and important properties from
+input data, and image categorization is achieved through a fully connected neural network. Machine
+learning, including deep learning, is used in biomedical applications to assist physicians in making more
+accurate diagnoses, improve patient care through personalized therapies, and improve human wellbeing.
+
+Medical devices can produce vast amounts of data, and deep-learning algorithms can mine this data to aid
+in the treatment and prevention of diseases and ailments. While deep-learning applications may appear
+disillusioning to the general public, people knowledgeable in machine learning recognize their global
+impact in resolving human problems across all fields.
+
+It is true that malaria is a preventable and treatable disease that affects millions of people worldwide.
+Microscopy is currently the most widely used method for malaria diagnosis, but it has limitations,
+particularly in terms of accuracy and throughput. This is due to the fact that manual microscopy requires a
+high level of expertise, which is often lacking in rural areas where malaria is endemic. To address this
+challenge, researchers have developed automated systems based on artificial intelligence (AI) tools,
+particularly deep learning techniques.
+
+In this context, the authors of the study have developed a VGG-based model for recognizing infected
+cells in malaria diagnosis. The VGG model is a convolutional neural network (CNN) that is widely used
+in computer vision applications. The authors compared their model to previously developed models and
+found that their model outperformed most of them in terms of accuracy metrics. The advantage of the
+VGG-based model is that it has a relatively small number of layers, which reduces the computing
+resources and computational time required.
+
+Overall, the use of deep learning techniques in malaria diagnosis has the potential to improve the
+accuracy and efficiency of malaria diagnosis, particularly in resource-limited settings. With further
+research and development, AI-based systems could become an important tool in the fight against malaria,
+ultimately saving many lives.
