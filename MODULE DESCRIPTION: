@@ -1,0 +1,29 @@
+For image classification, VGG-19 is a deep convolutional neural network architecture. It was
+created by the University of Oxford's Visual Geometry Group and first described in the publication
+"Very Deep Convolutional Networks for Large-Scale Image Recognition" published in 2014.
+
+There are 19 layers total in the VGG-19 network, including 16 convolutional layers, 3 fully connected
+layers, and layers with maximum pooling. Small filters with a 3x3 grid are used in the convolutional
+layers to help capture minute details in the image. The network can learn complex features because it
+employs a lot of filters—up to 512 filters in some levels.On a number of benchmark image classification
+tasks, such as the 2014 ImageNet Large Scale Visual Recognition Challenge (ILSVRC), VGG-19
+demonstrated cutting-edge performance. For many computer vision applications, including object
+identification, semantic segmentation, and image production, its design has served as a basis model.
+
+Object identification and classification method VGG16 can accurately categorize 1000 photos from
+1000 different sources. It is a common picture classification technique because it works well with
+transfer learning and is straightforward to implement.
+
+In summary, the deep convolutional neural network VGG-19 architecture has attained
+state-of-the-art performance on a number of benchmark image classification tasks, including the
+ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2014. For many computer vision
+applications, including object identification, semantic segmentation, and image production, its design has
+served as a basis model.
+
+The VGG-19 network can learn complicated features because it employs small filters with a size of
+3x3 and a large number of filters in some layers. The network additionally makes use of fully connected
+layers to generate a probability distribution across the classes in the ImageNet dataset and max pooling
+layers to minimise the spatial size of the feature maps.
+
+Overall, the VGG-19 architecture is a powerful tool in the field of computer vision and has
+significantly advanced the state-of-the-art in image classification.
