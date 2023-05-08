@@ -1,0 +1,21 @@
+In summary, the study used end-to-end deep-learning neural networks to improve the performance
+of malaria diagnosis categorization.
+
+Transfer learning was applied, which involves loading knowledge gained while solving one problem
+and applying it to a related problem. The researchers used the VGG-19 model, a pretrained
+convolutional neural network, and fine-tuned it for better performance.
+
+The researchers plan to focus on optimizing the architecture of CNN models for improved accuracy
+in the future and explore options like mobile devices and cloud-based implementation for expanding the
+application's functionality.
+
+The research focuses on the new approach of an automated system for malaria diagnosis and the
+benefits of the cutting-edge technique. The system performed the experiment with 98.46% accuracy,
+99.65% specificity, and 96.96% sensitivity. In many areas, the system outperforms the standard method of
+microscopy for detection and can be viewed as a potential solution for routine diagnosis practise over the
+world.
+
+Acceptance of this technology makes malarial infection diagnosis more cost-effective and practical,
+while also reducing the use of plastics in RDTs, making it more environmentally friendly. The deployment
+of automated technologies for diagnostics in the future might be viewed as an entire solution for improved
+efficiency and consistency
