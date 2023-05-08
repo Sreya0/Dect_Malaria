@@ -1,0 +1,11 @@
+However, the researchers conducted their analysis using a dataset of segmented red blood cells, and they
+were able to distinguish between malaria-infected and uninfected cells. The images were obtained by the
+researchers from a collection of blood smear images of healthy and sick blood samples, which were
+analyzed and compiled into a dataset. This dataset was used to train the researchers' deep learning
+algorithm to reliably identify and categorize parasitized and uninfected cells. VGG16 is an object
+identification and classification method that can classify 1000 photos from 1000 different categories with
+an accuracy of 92.7%. It is a common picture classification technique that works well with transfer
+learning.
+
+Dataset Link:
+https://github.com/krishnaik06/Malaria-Detection/blob/master/Dataset.zip
